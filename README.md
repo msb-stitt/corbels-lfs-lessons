@@ -10,8 +10,14 @@ screenshots and figures, and what each release published. The book's text and co
 - **`main`** holds this README and `.gitattributes`, and nothing else.
 - **A branch named for a `ftc31459-26-27-biobuzz` branch** holds the sources for the book on that
   branch: each page's current video, in `videos/`, and the figures, in `figures/`.
-- **A tag named for a `ftc31459-26-27-biobuzz` release**, such as `v0.1.3-rc.1`, holds that
-  release's sources and what it published: the built site, both PDFs and the videos.
+- **A tag named for a `ftc31459-26-27-biobuzz` release**, such as `v0.1.3-rc.1`, holds what that
+  release published, in `published/`: the guide, the mentor book, the review and both PDFs. The
+  release workflow makes it on top of the media commit it was built from, so it holds that
+  commit's `figures/` and `videos/` too. The tags from `v0.1.0` to `v0.1.3-rc.1` were archived
+  from `gh-pages` on 2026-10-12, and hold `published/` alone.
+
+`gh-pages` in `ftc31459-26-27-biobuzz` is laid out from these tags at each release, so it can be
+thrown away and made again.
 
 Only the current video of each page is kept, not the takes it was cut from.
 
