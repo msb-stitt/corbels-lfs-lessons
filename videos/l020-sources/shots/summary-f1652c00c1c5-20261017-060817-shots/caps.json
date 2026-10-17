@@ -1,0 +1,17 @@
+{
+ "caps": [
+  {
+   "id": "summary",
+   "cap": "We learned how to read from a gamepad, write to NetworkTables, and look at the results in AdvantageScope.",
+   "start": 1.5,
+   "end": 9.214
+  },
+  {
+   "id": "outro",
+   "cap": "That's lesson 020. Next time, we turn the sticks into speeds.",
+   "start": 9.264,
+   "end": 14.464
+  }
+ ],
+ "end": 15.464
+}

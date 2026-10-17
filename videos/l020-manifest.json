@@ -1,0 +1,495 @@
+{
+ "ftc-claude": {
+  "commit": "db3f834c59118ac665e1894b83424bf367830964",
+  "changed": []
+ },
+ "ftc31459-26-27-biobuzz": {
+  "commit": "be2be24e46d8003e76ac0b00667cf0fadbfb1e65",
+  "changed": [
+   "M TeamCode/src/main/java/org/firstinspires/ftc/teamcode/mytry/L020SticksOpMode.java"
+  ]
+ },
+ "programs": {
+  "macOS": "26.6 25G72",
+  "AdvantageScope": "26.0.2",
+  "Android Studio": "2026.1",
+  "melt": "melt 7.42.0",
+  "ffmpeg": "ffmpeg version 9.0.2 Copyright (c) 2000-2026 the FFmpeg developers",
+  "swiftc": "Apple Swift version 6.4 (swiftlang-6.4.0.34.1 clang-2100.3.34.1)",
+  "python": "3.14.7"
+ },
+ "shots": [
+  {
+   "name": "studio",
+   "hash": "696be1049273",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/studio-696be1049273-20261017-060817-shots/"
+  },
+  {
+   "name": "launch1",
+   "hash": "fcb284c2bf2e",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/launch1-fcb284c2bf2e-20261017-060817-shots/"
+  },
+  {
+   "name": "scope1",
+   "hash": "8fadfc783f78",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/scope1-8fadfc783f78-20261017-060817-shots/"
+  },
+  {
+   "name": "stop1",
+   "hash": "7c561bc7f27c",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/stop1-7c561bc7f27c-20261017-060817-shots/"
+  },
+  {
+   "name": "studio2",
+   "hash": "998dcd8d4490",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/studio2-998dcd8d4490-20261017-060817-shots/"
+  },
+  {
+   "name": "launch2",
+   "hash": "10a1db215ffe",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/launch2-10a1db215ffe-20261017-060817-shots/"
+  },
+  {
+   "name": "scope2",
+   "hash": "dd82ff7cb165",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/scope2-dd82ff7cb165-20261017-060817-shots/"
+  },
+  {
+   "name": "stop2",
+   "hash": "ba01bbb709b3",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/stop2-ba01bbb709b3-20261017-060817-shots/"
+  },
+  {
+   "name": "log",
+   "hash": "5daa781f7733",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/log-5daa781f7733-20261017-060817-shots/"
+  },
+  {
+   "name": "summary",
+   "hash": "f1652c00c1c5",
+   "take": "20261017-060817-shots",
+   "archive": "videos/l020-sources/shots/summary-f1652c00c1c5-20261017-060817-shots/"
+  }
+ ],
+ "voices": [
+  {
+   "id": "intro_hi",
+   "mp3": "intro_hi-36df534bf111.mp3",
+   "archive": "videos/l020-sources/audio/intro_hi-36df534bf111.mp3"
+  },
+  {
+   "id": "intro_plan",
+   "mp3": "intro_plan-45e84e771367.mp3",
+   "archive": "videos/l020-sources/audio/intro_plan-45e84e771367.mp3"
+  },
+  {
+   "id": "lessons_cue",
+   "mp3": "lessons_cue-cbc4136b1b2b.mp3",
+   "archive": "videos/l020-sources/audio/lessons_cue-cbc4136b1b2b.mp3"
+  },
+  {
+   "id": "lessons_res",
+   "mp3": "lessons_res-1e6eb115e6f3.mp3",
+   "archive": "videos/l020-sources/audio/lessons_res-1e6eb115e6f3.mp3"
+  },
+  {
+   "id": "pick_cue",
+   "mp3": "pick_cue-6d71ef310817.mp3",
+   "archive": "videos/l020-sources/audio/pick_cue-6d71ef310817.mp3"
+  },
+  {
+   "id": "copy_cue",
+   "mp3": "copy_cue-32568a72a98d.mp3",
+   "archive": "videos/l020-sources/audio/copy_cue-32568a72a98d.mp3"
+  },
+  {
+   "id": "fold_cue",
+   "mp3": "fold_cue-55f07e336304.mp3",
+   "archive": "videos/l020-sources/audio/fold_cue-55f07e336304.mp3"
+  },
+  {
+   "id": "mytry_cue",
+   "mp3": "mytry_cue-0a3591be8bdd.mp3",
+   "archive": "videos/l020-sources/audio/mytry_cue-0a3591be8bdd.mp3"
+  },
+  {
+   "id": "paste_cue",
+   "mp3": "paste_cue-16c86e4f4cea.mp3",
+   "archive": "videos/l020-sources/audio/paste_cue-16c86e4f4cea.mp3"
+  },
+  {
+   "id": "paste_res",
+   "mp3": "paste_res-af9b0351eccd.mp3",
+   "archive": "videos/l020-sources/audio/paste_res-af9b0351eccd.mp3"
+  },
+  {
+   "id": "ok_cue",
+   "mp3": "ok_cue-1fe5010510ba.mp3",
+   "archive": "videos/l020-sources/audio/ok_cue-1fe5010510ba.mp3"
+  },
+  {
+   "id": "git_res",
+   "mp3": "git_res-3b98571a88bb.mp3",
+   "archive": "videos/l020-sources/audio/git_res-3b98571a88bb.mp3"
+  },
+  {
+   "id": "add_cue",
+   "mp3": "add_cue-57a4d8dd7bc2.mp3",
+   "archive": "videos/l020-sources/audio/add_cue-57a4d8dd7bc2.mp3"
+  },
+  {
+   "id": "top_cue",
+   "mp3": "top_cue-0eaac2285587.mp3",
+   "archive": "videos/l020-sources/audio/top_cue-0eaac2285587.mp3"
+  },
+  {
+   "id": "ok_res",
+   "mp3": "ok_res-7b428eaf8356.mp3",
+   "archive": "videos/l020-sources/audio/ok_res-7b428eaf8356.mp3"
+  },
+  {
+   "id": "disabled_cue",
+   "mp3": "disabled_cue-ea3ac3d4927b.mp3",
+   "archive": "videos/l020-sources/audio/disabled_cue-ea3ac3d4927b.mp3"
+  },
+  {
+   "id": "del_cue",
+   "mp3": "del_cue-e21d0436c1c9.mp3",
+   "archive": "videos/l020-sources/audio/del_cue-e21d0436c1c9.mp3"
+  },
+  {
+   "id": "del_res",
+   "mp3": "del_res-4914a64bea45.mp3",
+   "archive": "videos/l020-sources/audio/del_res-4914a64bea45.mp3"
+  },
+  {
+   "id": "loop_cue",
+   "mp3": "loop_cue-8149186ba9f5.mp3",
+   "archive": "videos/l020-sources/audio/loop_cue-8149186ba9f5.mp3"
+  },
+  {
+   "id": "type1_cue",
+   "mp3": "type1_cue-3d97e8c3ebce.mp3",
+   "archive": "videos/l020-sources/audio/type1_cue-3d97e8c3ebce.mp3"
+  },
+  {
+   "id": "type1_res",
+   "mp3": "type1_res-1e7c0fd5f575.mp3",
+   "archive": "videos/l020-sources/audio/type1_res-1e7c0fd5f575.mp3"
+  },
+  {
+   "id": "narrow_cue",
+   "mp3": "narrow_cue-c26862b3086f.mp3",
+   "archive": "videos/l020-sources/audio/narrow_cue-c26862b3086f.mp3"
+  },
+  {
+   "id": "narrow_res",
+   "mp3": "narrow_res-a3144d8b9963.mp3",
+   "archive": "videos/l020-sources/audio/narrow_res-a3144d8b9963.mp3"
+  },
+  {
+   "id": "tab_cue",
+   "mp3": "tab_cue-248e22f76723.mp3",
+   "archive": "videos/l020-sources/audio/tab_cue-248e22f76723.mp3"
+  },
+  {
+   "id": "semi_cue",
+   "mp3": "semi_cue-b3bd1e684fc6.mp3",
+   "archive": "videos/l020-sources/audio/semi_cue-b3bd1e684fc6.mp3"
+  },
+  {
+   "id": "semi_res",
+   "mp3": "semi_res-0e7e2472c26d.mp3",
+   "archive": "videos/l020-sources/audio/semi_res-0e7e2472c26d.mp3"
+  },
+  {
+   "id": "hover_cue",
+   "mp3": "hover_cue-fce906047853.mp3",
+   "archive": "videos/l020-sources/audio/hover_cue-fce906047853.mp3"
+  },
+  {
+   "id": "hover_res",
+   "mp3": "hover_res-e4f6733eb633.mp3",
+   "archive": "videos/l020-sources/audio/hover_res-e4f6733eb633.mp3"
+  },
+  {
+   "id": "hover_off_cue",
+   "mp3": "hover_off_cue-ca0de7353e1c.mp3",
+   "archive": "videos/l020-sources/audio/hover_off_cue-ca0de7353e1c.mp3"
+  },
+  {
+   "id": "track_cue",
+   "mp3": "track_cue-8f67253fb8b1.mp3",
+   "archive": "videos/l020-sources/audio/track_cue-8f67253fb8b1.mp3"
+  },
+  {
+   "id": "track_res",
+   "mp3": "track_res-b54493647b5e.mp3",
+   "archive": "videos/l020-sources/audio/track_res-b54493647b5e.mp3"
+  },
+  {
+   "id": "tracktab_cue",
+   "mp3": "tracktab_cue-5fc83753ad61.mp3",
+   "archive": "videos/l020-sources/audio/tracktab_cue-5fc83753ad61.mp3"
+  },
+  {
+   "id": "publish_cue",
+   "mp3": "publish_cue-1908faff5da5.mp3",
+   "archive": "videos/l020-sources/audio/publish_cue-1908faff5da5.mp3"
+  },
+  {
+   "id": "publish_res",
+   "mp3": "publish_res-156a830ae7c7.mp3",
+   "archive": "videos/l020-sources/audio/publish_res-156a830ae7c7.mp3"
+  },
+  {
+   "id": "import_cue",
+   "mp3": "import_cue-cfa3606baac3.mp3",
+   "archive": "videos/l020-sources/audio/import_cue-cfa3606baac3.mp3"
+  },
+  {
+   "id": "pad_plug",
+   "mp3": "pad_plug-e65cf6bffdcc.mp3",
+   "archive": "videos/l020-sources/audio/pad_plug-e65cf6bffdcc.mp3"
+  },
+  {
+   "id": "term_cue",
+   "mp3": "term_cue-08508362879f.mp3",
+   "archive": "videos/l020-sources/audio/term_cue-08508362879f.mp3"
+  },
+  {
+   "id": "cmd_cue",
+   "mp3": "cmd_cue-cfa4ff01cc21.mp3",
+   "archive": "videos/l020-sources/audio/cmd_cue-cfa4ff01cc21.mp3"
+  },
+  {
+   "id": "cmd_res",
+   "mp3": "cmd_res-b762f0c848a1.mp3",
+   "archive": "videos/l020-sources/audio/cmd_res-b762f0c848a1.mp3"
+  },
+  {
+   "id": "pad_claim",
+   "mp3": "pad_claim-57663f2c449b.mp3",
+   "archive": "videos/l020-sources/audio/pad_claim-57663f2c449b.mp3"
+  },
+  {
+   "id": "as_cue",
+   "mp3": "as_cue-f09e8d067364.mp3",
+   "archive": "videos/l020-sources/audio/as_cue-f09e8d067364.mp3"
+  },
+  {
+   "id": "connect_cue",
+   "mp3": "connect_cue-b6bd9e857908.mp3",
+   "archive": "videos/l020-sources/audio/connect_cue-b6bd9e857908.mp3"
+  },
+  {
+   "id": "connect2_cue",
+   "mp3": "connect2_cue-00c8dc350d54.mp3",
+   "archive": "videos/l020-sources/audio/connect2_cue-00c8dc350d54.mp3"
+  },
+  {
+   "id": "connect3_cue",
+   "mp3": "connect3_cue-ea4a2cbc7bf9.mp3",
+   "archive": "videos/l020-sources/audio/connect3_cue-ea4a2cbc7bf9.mp3"
+  },
+  {
+   "id": "graph_cue",
+   "mp3": "graph_cue-da4a7f0bba6d.mp3",
+   "archive": "videos/l020-sources/audio/graph_cue-da4a7f0bba6d.mp3"
+  },
+  {
+   "id": "search_cue",
+   "mp3": "search_cue-caee2030a9d8.mp3",
+   "archive": "videos/l020-sources/audio/search_cue-caee2030a9d8.mp3"
+  },
+  {
+   "id": "field_cue",
+   "mp3": "field_cue-33655e37100b.mp3",
+   "archive": "videos/l020-sources/audio/field_cue-33655e37100b.mp3"
+  },
+  {
+   "id": "dragl_cue",
+   "mp3": "dragl_cue-50e2a6987656.mp3",
+   "archive": "videos/l020-sources/audio/dragl_cue-50e2a6987656.mp3"
+  },
+  {
+   "id": "padl0",
+   "mp3": "padl0-8baf01c67514.mp3",
+   "archive": "videos/l020-sources/audio/padl0-8baf01c67514.mp3"
+  },
+  {
+   "id": "padl1",
+   "mp3": "padl1-f4230b114eb7.mp3",
+   "archive": "videos/l020-sources/audio/padl1-f4230b114eb7.mp3"
+  },
+  {
+   "id": "scale_talk",
+   "mp3": "scale_talk-a5675e9d0892.mp3",
+   "archive": "videos/l020-sources/audio/scale_talk-a5675e9d0892.mp3"
+  },
+  {
+   "id": "padl2",
+   "mp3": "padl2-aa8d6484d6b3.mp3",
+   "archive": "videos/l020-sources/audio/padl2-aa8d6484d6b3.mp3"
+  },
+  {
+   "id": "forward_talk",
+   "mp3": "forward_talk-629ff92fe480.mp3",
+   "archive": "videos/l020-sources/audio/forward_talk-629ff92fe480.mp3"
+  },
+  {
+   "id": "padl3",
+   "mp3": "padl3-a96d7071fe31.mp3",
+   "archive": "videos/l020-sources/audio/padl3-a96d7071fe31.mp3"
+  },
+  {
+   "id": "padl4",
+   "mp3": "padl4-1ff750c0fe7a.mp3",
+   "archive": "videos/l020-sources/audio/padl4-1ff750c0fe7a.mp3"
+  },
+  {
+   "id": "padl5",
+   "mp3": "padl5-09b21991665d.mp3",
+   "archive": "videos/l020-sources/audio/padl5-09b21991665d.mp3"
+  },
+  {
+   "id": "padl6",
+   "mp3": "padl6-f1278a0c8927.mp3",
+   "archive": "videos/l020-sources/audio/padl6-f1278a0c8927.mp3"
+  },
+  {
+   "id": "back_cue",
+   "mp3": "back_cue-28f985e4157d.mp3",
+   "archive": "videos/l020-sources/audio/back_cue-28f985e4157d.mp3"
+  },
+  {
+   "id": "stop_cue",
+   "mp3": "stop_cue-1b3a53e36c30.mp3",
+   "archive": "videos/l020-sources/audio/stop_cue-1b3a53e36c30.mp3"
+  },
+  {
+   "id": "stop_res",
+   "mp3": "stop_res-45e4335ba5a8.mp3",
+   "archive": "videos/l020-sources/audio/stop_res-45e4335ba5a8.mp3"
+  },
+  {
+   "id": "right_cue",
+   "mp3": "right_cue-97170fa716c3.mp3",
+   "archive": "videos/l020-sources/audio/right_cue-97170fa716c3.mp3"
+  },
+  {
+   "id": "again_cue",
+   "mp3": "again_cue-fbcc577f3d81.mp3",
+   "archive": "videos/l020-sources/audio/again_cue-fbcc577f3d81.mp3"
+  },
+  {
+   "id": "again_res",
+   "mp3": "again_res-7a9895a81dc5.mp3",
+   "archive": "videos/l020-sources/audio/again_res-7a9895a81dc5.mp3"
+  },
+  {
+   "id": "as2_cue",
+   "mp3": "as2_cue-20dc13dbc0be.mp3",
+   "archive": "videos/l020-sources/audio/as2_cue-20dc13dbc0be.mp3"
+  },
+  {
+   "id": "dragr_cue",
+   "mp3": "dragr_cue-75cc77fc8c65.mp3",
+   "archive": "videos/l020-sources/audio/dragr_cue-75cc77fc8c65.mp3"
+  },
+  {
+   "id": "padr1",
+   "mp3": "padr1-3de7a7512803.mp3",
+   "archive": "videos/l020-sources/audio/padr1-3de7a7512803.mp3"
+  },
+  {
+   "id": "padr2",
+   "mp3": "padr2-6dd73fb04c3d.mp3",
+   "archive": "videos/l020-sources/audio/padr2-6dd73fb04c3d.mp3"
+  },
+  {
+   "id": "padr3",
+   "mp3": "padr3-a7b51caaf0dd.mp3",
+   "archive": "videos/l020-sources/audio/padr3-a7b51caaf0dd.mp3"
+  },
+  {
+   "id": "padr4",
+   "mp3": "padr4-90c0d9ad1fe8.mp3",
+   "archive": "videos/l020-sources/audio/padr4-90c0d9ad1fe8.mp3"
+  },
+  {
+   "id": "back2_cue",
+   "mp3": "back2_cue-a475afdedd64.mp3",
+   "archive": "videos/l020-sources/audio/back2_cue-a475afdedd64.mp3"
+  },
+  {
+   "id": "stop2_cue",
+   "mp3": "stop2_cue-e5541bc92e3b.mp3",
+   "archive": "videos/l020-sources/audio/stop2_cue-e5541bc92e3b.mp3"
+  },
+  {
+   "id": "as3_cue",
+   "mp3": "as3_cue-16f92d432fd5.mp3",
+   "archive": "videos/l020-sources/audio/as3_cue-16f92d432fd5.mp3"
+  },
+  {
+   "id": "open_cue",
+   "mp3": "open_cue-366e3265340a.mp3",
+   "archive": "videos/l020-sources/audio/open_cue-366e3265340a.mp3"
+  },
+  {
+   "id": "openlog_cue",
+   "mp3": "openlog_cue-cc6185d6d561.mp3",
+   "archive": "videos/l020-sources/audio/openlog_cue-cc6185d6d561.mp3"
+  },
+  {
+   "id": "sort_cue",
+   "mp3": "sort_cue-19a0eee73a9d.mp3",
+   "archive": "videos/l020-sources/audio/sort_cue-19a0eee73a9d.mp3"
+  },
+  {
+   "id": "log_cue",
+   "mp3": "log_cue-e0c351da27d4.mp3",
+   "archive": "videos/l020-sources/audio/log_cue-e0c351da27d4.mp3"
+  },
+  {
+   "id": "crossed_talk",
+   "mp3": "crossed_talk-61ec9c4c1a36.mp3",
+   "archive": "videos/l020-sources/audio/crossed_talk-61ec9c4c1a36.mp3"
+  },
+  {
+   "id": "dragl2_cue",
+   "mp3": "dragl2_cue-69e5b02e7083.mp3",
+   "archive": "videos/l020-sources/audio/dragl2_cue-69e5b02e7083.mp3"
+  },
+  {
+   "id": "dragr2_cue",
+   "mp3": "dragr2_cue-c9980b543443.mp3",
+   "archive": "videos/l020-sources/audio/dragr2_cue-c9980b543443.mp3"
+  },
+  {
+   "id": "dragboth_res",
+   "mp3": "dragboth_res-2bea9ed4d384.mp3",
+   "archive": "videos/l020-sources/audio/dragboth_res-2bea9ed4d384.mp3"
+  },
+  {
+   "id": "summary",
+   "mp3": "summary-e9accb364b0f.mp3",
+   "archive": "videos/l020-sources/audio/summary-e9accb364b0f.mp3"
+  },
+  {
+   "id": "outro",
+   "mp3": "outro-00d5d62a676d.mp3",
+   "archive": "videos/l020-sources/audio/outro-00d5d62a676d.mp3"
+  }
+ ]
+}

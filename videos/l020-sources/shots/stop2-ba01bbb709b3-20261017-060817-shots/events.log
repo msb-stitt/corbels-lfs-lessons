@@ -1,0 +1,9 @@
+  27.844	switch	guard	studio in front
+   0.000	stop_sim2	act	stop2_cue, planned at 2.300 s
+   0.357	stop_sim2	guard	studio in front
+   1.824	stop_sim2	before	passed in 0.30 s: 'Local'
+   2.829	stop_sim2	press	756,850
+   3.045	stop_sim2	key	key code 8 using control down
+   3.968	stop_sim2	after	passed in 0.60 s: 'biobuzz %'
+   3.970	switch	act	as3_cue, planned at 6.330 s
+   9.886	switch	end	stop2 ends 9.84 s

@@ -1,0 +1,30 @@
+  11.137	switch	guard	as in front
+   0.000	as_file	act	open_cue, planned at 2.300 s
+   0.125	as_file	guard	as in front
+   1.935	as_file	before	passed in 0.29 s: 'File'
+   2.936	as_file	press	194,16
+   3.461	as_file	after	passed in 0.30 s: 'Open Log'
+   3.461	as_openlog	act	openlog_cue, planned at 5.761 s
+   3.585	as_openlog	guard	as in front
+   5.366	as_openlog	before	passed in 0.29 s: 'Open Log'
+   6.371	as_openlog	press	228,51
+   7.532	as_openlog	after	passed in 0.95 s: 'multiple files'
+   7.532	as_sort	act	sort_cue, planned at 9.832 s
+  10.135	as_sort	press	830,357
+  11.858	as_pick_log	act	log_cue, planned at 16.422 s
+  14.289	as_pick_log	guard	as in front
+  15.956	as_pick_log	before	passed in 0.31 s: 'wpilog'
+  17.475	as_pick_log	double-click	655,387
+  18.393	as_pick_log	after	passed in 0.66 s: '!multiple files'
+  19.229	as_pick_log	wait	log open
+  19.229	as_drag_left2	act	dragl2_cue, planned at 29.542 s
+  27.417	as_drag_left2	guard	as in front
+  29.803	as_drag_left2	drag from	126,294
+  32.326	as_drag_left2	drag to	539,830
+  32.693	as_drag_left2	after	passed in 0.32 s: 'stick/leftY'
+  32.693	as_drag_right2	act	dragr2_cue, planned at 34.993 s
+  33.153	as_drag_right2	guard	as in front
+  35.201	as_drag_right2	drag from	131,325
+  37.646	as_drag_right2	drag to	539,845
+  38.049	as_drag_right2	after	passed in 0.34 s: 'stick/righ'
+  44.985	as_drag_right2	end	log ends 44.92 s

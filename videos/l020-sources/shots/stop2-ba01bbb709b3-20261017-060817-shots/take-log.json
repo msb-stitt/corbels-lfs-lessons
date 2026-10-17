@@ -1,0 +1,20 @@
+[
+ {
+  "id": "stop2_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 3.045,
+  "act_end": 3.968,
+  "cap_end": 5.33
+ },
+ {
+  "id": "as3_cue",
+  "kind": "cue",
+  "audio": 5.83,
+  "act": 6.33,
+  "hit": 6.332,
+  "act_end": 6.332,
+  "cap_end": 8.84
+ }
+]

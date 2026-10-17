@@ -1,0 +1,17 @@
+{
+ "caps": [
+  {
+   "id": "stop_cue",
+   "cap": "Left-click in the Terminal, and press Ctrl+C.",
+   "start": 1.8,
+   "end": 5.57
+  },
+  {
+   "id": "stop_res",
+   "cap": "The simulator stops.",
+   "start": 5.62,
+   "end": 7.67
+  }
+ ],
+ "end": 9.17
+}
