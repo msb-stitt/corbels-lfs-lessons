@@ -13,7 +13,9 @@ screenshots and figures, and what each release published. The book's text and co
 - **A tag named for a `ftc31459-26-27-biobuzz` release**, such as `v0.1.3-rc.1`, holds that
   release's sources and what it published: the built site, both PDFs and the videos.
 
-Only the current video of each page is kept, not the takes it was cut from.
+Only the current video of each page is kept. A video made from shots has a manifest beside it,
+such as `videos/l020-manifest.json`, and the shots and voices it names in
+`videos/<page>-sources/`; takes that were not released are not kept.
 
 ## Setting up a clone
 
