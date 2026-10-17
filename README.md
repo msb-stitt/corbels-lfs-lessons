@@ -7,7 +7,7 @@ screenshots and figures, and what each release published. The book's text and co
 
 ## What is where
 
-- **`main`** holds this README and `.gitattributes`, and nothing else.
+- **`main`** holds this README, `.gitattributes` and `.gitignore`, and nothing else.
 - **A branch named for a `ftc31459-26-27-biobuzz` branch** holds the sources for the book on that
   branch: each page's current video, in `videos/`, and the figures, in `figures/`.
 - **A tag named for a `ftc31459-26-27-biobuzz` release**, such as `v0.1.3-rc.1`, holds what that
