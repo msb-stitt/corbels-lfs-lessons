@@ -1,0 +1,17 @@
+[
+ {
+  "id": "stop_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 2.964,
+  "act_end": 3.932,
+  "cap_end": 5.57
+ },
+ {
+  "id": "stop_res",
+  "kind": "result",
+  "audio": 5.62,
+  "cap_end": 7.67
+ }
+]

@@ -1,0 +1,29 @@
+{
+ "caps": [
+  {
+   "id": "cmd_cue",
+   "cap": "Type ./gradlew :TeamCode:simRun --args=\"mytry.L020SticksOpMode --pad\" and press Enter.",
+   "start": 1.8,
+   "end": 7.23
+  },
+  {
+   "id": "cmd_res",
+   "cap": "It names the gamepad, says it's running, and keeps on running.",
+   "start": 10.998,
+   "end": 16.498
+  },
+  {
+   "id": "pad_claim",
+   "cap": "If more than one gamepad is plugged in, hold Start and press A to make yours gamepad1.",
+   "start": 16.998,
+   "end": 24.284
+  },
+  {
+   "id": "as_cue",
+   "cap": "Now open AdvantageScope, or switch to it if it's open: \u2318Tab on a Mac, Alt+Tab on Windows and Ubuntu.",
+   "start": 24.334,
+   "end": 32.477
+  }
+ ],
+ "end": 33.477
+}

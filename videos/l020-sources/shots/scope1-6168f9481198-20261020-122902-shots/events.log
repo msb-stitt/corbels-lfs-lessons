@@ -1,0 +1,60 @@
+  34.863	switch	guard	as in front
+   0.000	as_file	act	connect_cue, planned at 2.300 s
+   0.135	as_file	guard	as in front
+   1.805	as_file	before	passed in 0.31 s: 'File'
+   2.809	as_file	press	194,16
+   3.373	as_file	after	passed in 0.33 s: 'Open Log'
+   3.373	as_connect	act	connect2_cue, planned at 5.673 s
+   3.501	as_connect	guard	as in front
+   5.214	as_connect	before	passed in 0.37 s: 'Connect to Simulator'
+   6.219	as_connect	press	250,123
+   7.408	as_connect	after	passed in 0.35 s: 'NetworkTables 4'
+   7.408	as_nt4	act	connect3_cue, planned at 9.708 s
+   7.537	as_nt4	guard	as in front
+   9.190	as_nt4	before	passed in 0.36 s: 'NetworkTables'
+  10.193	as_nt4	press	486,158
+  11.053	as_nt4	after	passed in 0.63 s: '127.0.0.1'
+  11.053	as_line	act	graph_cue, planned at 15.808 s
+  13.672	as_line	guard	as in front
+  15.276	as_line	before	passed in 0.37 s: 'Line Graph'
+  16.282	as_line	press	464,117
+  16.841	as_line	after	passed in 0.34 s: 'Left Axis'
+  16.841	as_search	act	search_cue, planned at 19.141 s
+  16.978	as_search	guard	as in front
+  18.656	as_search	before	passed in 0.31 s: 'Search'
+  19.657	as_search	press	197,141
+  19.912	as_search	type	stick
+  21.056	as_search	after	passed in 0.36 s: 'stick/leftY'
+  21.056	as_field	act	field_cue, planned at 23.356 s
+  21.196	as_field	guard	as in front
+  22.870	as_field	before	passed in 0.32 s: 'stick/leftY'
+  23.873	as_field	press	119,167
+  24.465	as_field	after	passed in 0.34 s: '- leftY'
+  24.465	as_drag_left	act	dragl_cue, planned at 27.576 s
+  25.419	as_drag_left	guard	as in front
+  27.780	as_drag_left	drag from	126,324
+  30.188	as_drag_left	drag to	539,800
+  30.589	as_drag_left	after	passed in 0.33 s: 'stick/leftY'
+  30.589	left_0	act	padl0, planned at 32.266 s
+  32.270	left_0	stick	to {'left_stick_y': 0.0} over 0.35 s
+  32.623	left_0	stick	at {'left_stick_y': 0.0}
+  32.623	left_half_fwd	act	padl1, planned at 38.546 s
+  38.548	left_half_fwd	stick	to {'left_stick_y': -0.47} over 0.60 s
+  39.151	left_half_fwd	stick	at {'left_stick_y': -0.47}
+  39.153	left_fwd	act	padl2, planned at 53.217 s
+  53.219	left_fwd	stick	to {'left_stick_y': -1.0} over 0.40 s
+  53.622	left_fwd	stick	at {'left_stick_y': -1.0}
+  53.623	left_0	act	padl3, planned at 64.136 s
+  64.138	left_0	stick	to {'left_stick_y': 0.0} over 0.35 s
+  64.490	left_0	stick	at {'left_stick_y': 0.0}
+  64.490	left_half_back	act	padl4, planned at 68.900 s
+  68.901	left_half_back	stick	to {'left_stick_y': 0.54} over 0.60 s
+  69.504	left_half_back	stick	at {'left_stick_y': 0.54}
+  69.505	left_back	act	padl5, planned at 72.807 s
+  72.809	left_back	stick	to {'left_stick_y': 1.0} over 0.40 s
+  73.211	left_back	stick	at {'left_stick_y': 1.0}
+  73.211	left_0	act	padl6, planned at 76.747 s
+  76.750	left_0	stick	to {'left_stick_y': 0.0} over 0.35 s
+  77.101	left_0	stick	at {'left_stick_y': 0.0}
+  77.101	switch	act	back_cue, planned at 79.868 s
+  86.482	switch	end	scope1 ends 86.368 s

@@ -1,0 +1,53 @@
+{
+ "caps": [
+  {
+   "id": "open_cue",
+   "cap": "Left-click File again...",
+   "start": 1.8,
+   "end": 4.06
+  },
+  {
+   "id": "openlog_cue",
+   "cap": "...and left-click Open Log(s)\u2026",
+   "start": 5.126,
+   "end": 7.746
+  },
+  {
+   "id": "sort_cue",
+   "cap": "In the project's top folder, left-click Date Modified, so the newest file is on top.",
+   "start": 9.467,
+   "end": 16.007
+  },
+  {
+   "id": "log_cue",
+   "cap": "Double-left-click the top L020SticksOpMode file.",
+   "start": 16.057,
+   "end": 19.677
+  },
+  {
+   "id": "crossed_talk",
+   "cap": "The NT (NetworkTables) live names in Left Axis are crossed out now. Log file names don't start with NT.",
+   "start": 19.727,
+   "end": 28.677
+  },
+  {
+   "id": "dragl2_cue",
+   "cap": "Left-click and drag leftY into Left Axis...",
+   "start": 29.177,
+   "end": 33.407
+  },
+  {
+   "id": "dragr2_cue",
+   "cap": "...and rightY.",
+   "start": 34.254,
+   "end": 36.014
+  },
+  {
+   "id": "dragboth_res",
+   "cap": "There's the whole run, kept in a file we can open again later.",
+   "start": 37.986,
+   "end": 43.557
+  }
+ ],
+ "end": 44.557
+}
