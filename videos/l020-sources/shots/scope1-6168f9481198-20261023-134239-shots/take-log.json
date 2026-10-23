@@ -1,0 +1,149 @@
+[
+ {
+  "id": "connect_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 3.196,
+  "act_end": 3.512,
+  "cap_end": 3.63
+ },
+ {
+  "id": "connect2_cue",
+  "kind": "cue",
+  "audio": 5.312,
+  "act": 5.812,
+  "hit": 6.765,
+  "act_end": 7.777,
+  "cap_end": 7.272
+ },
+ {
+  "id": "connect3_cue",
+  "kind": "cue",
+  "audio": 9.578,
+  "act": 10.078,
+  "hit": 11.085,
+  "act_end": 11.714,
+  "cap_end": 15.178
+ },
+ {
+  "id": "graph_cue",
+  "kind": "cue",
+  "audio": 15.678,
+  "act": 16.178,
+  "hit": 16.996,
+  "act_end": 17.343,
+  "cap_end": 17.688
+ },
+ {
+  "id": "search_cue",
+  "kind": "cue",
+  "audio": 19.143,
+  "act": 19.643,
+  "hit": 20.578,
+  "act_end": 21.693,
+  "cap_end": 22.613
+ },
+ {
+  "id": "field_cue",
+  "kind": "cue",
+  "audio": 23.493,
+  "act": 23.993,
+  "hit": 24.922,
+  "act_end": 25.281,
+  "cap_end": 27.663
+ },
+ {
+  "id": "dragl_cue",
+  "kind": "cue",
+  "audio": 27.713,
+  "act": 28.213,
+  "hit": 28.628,
+  "act_end": 31.645,
+  "cap_end": 32.403
+ },
+ {
+  "id": "padl0",
+  "kind": "pad",
+  "audio": 32.903,
+  "act": 32.903,
+  "hit": 32.907,
+  "act_end": 33.261,
+  "cap_end": 39.133
+ },
+ {
+  "id": "padl1",
+  "kind": "pad",
+  "audio": 39.183,
+  "act": 39.183,
+  "hit": 39.184,
+  "act_end": 39.785,
+  "cap_end": 43.897
+ },
+ {
+  "id": "scale_talk",
+  "kind": "talk",
+  "audio": 43.947,
+  "cap_end": 53.804
+ },
+ {
+  "id": "padl2",
+  "kind": "pad",
+  "audio": 53.854,
+  "act": 53.854,
+  "hit": 53.859,
+  "act_end": 54.26,
+  "cap_end": 58.244
+ },
+ {
+  "id": "forward_talk",
+  "kind": "talk",
+  "audio": 58.294,
+  "cap_end": 64.723
+ },
+ {
+  "id": "padl3",
+  "kind": "pad",
+  "audio": 64.773,
+  "act": 64.773,
+  "hit": 64.778,
+  "act_end": 65.131,
+  "cap_end": 69.487
+ },
+ {
+  "id": "padl4",
+  "kind": "pad",
+  "audio": 69.537,
+  "act": 69.537,
+  "hit": 69.542,
+  "act_end": 70.144,
+  "cap_end": 73.394
+ },
+ {
+  "id": "padl5",
+  "kind": "pad",
+  "audio": 73.444,
+  "act": 73.444,
+  "hit": 73.449,
+  "act_end": 73.853,
+  "cap_end": 77.334
+ },
+ {
+  "id": "padl6",
+  "kind": "pad",
+  "audio": 77.384,
+  "act": 77.384,
+  "hit": 77.386,
+  "act_end": 77.739,
+  "cap_end": 79.955
+ },
+ {
+  "id": "back_cue",
+  "kind": "cue",
+  "audio": 80.005,
+  "act": 80.505,
+  "hit": 80.506,
+  "act_end": 80.506,
+  "cap_end": 86.005
+ }
+]

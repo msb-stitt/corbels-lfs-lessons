@@ -1,15 +1,10 @@
 {
  "ftc-claude": {
-  "commit": "51b8ef2108ddade4ba580fcc1a7954bbf1d82283",
-  "changed": [
-   "M .docs/2026-10-20-remove-buttons.md",
-   " M tools/video/l020/bounds.txt",
-   " M tools/video/l020/drive.py",
-   " M tools/video/l020/script.json"
-  ]
+  "commit": "aca0a10dd1fb719c3d3afc6bac94eccf4b56054b",
+  "changed": []
  },
  "ftc31459-26-27-biobuzz": {
-  "commit": "3a6b2f9278fa10d7c393f5ba12cbdb0cc874f5fd",
+  "commit": "644c7a9b17896024a23f3247f3fc203b9b03b10f",
   "changed": [
    "AM TeamCode/src/main/java/org/firstinspires/ftc/teamcode/mytry/L020SticksOpMode.java"
   ]
@@ -27,62 +22,62 @@
   {
    "name": "studio",
    "hash": "bdc777068721",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/studio-bdc777068721-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/studio-bdc777068721-20261023-134239-shots/"
   },
   {
    "name": "launch1",
    "hash": "6b5fa3721c50",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/launch1-6b5fa3721c50-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/launch1-6b5fa3721c50-20261023-134239-shots/"
   },
   {
    "name": "scope1",
    "hash": "6168f9481198",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/scope1-6168f9481198-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/scope1-6168f9481198-20261023-134239-shots/"
   },
   {
    "name": "stop1",
    "hash": "127e9a5d2e8d",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/stop1-127e9a5d2e8d-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/stop1-127e9a5d2e8d-20261023-134239-shots/"
   },
   {
    "name": "studio2",
    "hash": "03900064e07e",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/studio2-03900064e07e-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/studio2-03900064e07e-20261023-134239-shots/"
   },
   {
    "name": "launch2",
    "hash": "3b80ff6fef7b",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/launch2-3b80ff6fef7b-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/launch2-3b80ff6fef7b-20261023-134239-shots/"
   },
   {
    "name": "scope2",
    "hash": "6b338464a2d7",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/scope2-6b338464a2d7-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/scope2-6b338464a2d7-20261023-134239-shots/"
   },
   {
    "name": "stop2",
    "hash": "8e2e02eceb67",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/stop2-8e2e02eceb67-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/stop2-8e2e02eceb67-20261023-134239-shots/"
   },
   {
    "name": "log",
    "hash": "256a74703a86",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/log-256a74703a86-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/log-256a74703a86-20261023-134239-shots/"
   },
   {
    "name": "summary",
    "hash": "51e4c780eac4",
-   "take": "20261020-122902-shots",
-   "archive": "videos/l020-sources/shots/summary-51e4c780eac4-20261020-122902-shots/"
+   "take": "20261023-134239-shots",
+   "archive": "videos/l020-sources/shots/summary-51e4c780eac4-20261023-134239-shots/"
   }
  ],
  "voices": [

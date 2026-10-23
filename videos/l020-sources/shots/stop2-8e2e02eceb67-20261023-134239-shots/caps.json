@@ -1,0 +1,17 @@
+{
+ "caps": [
+  {
+   "id": "stop2_cue",
+   "cap": "Stop the simulator again, with Ctrl+C.",
+   "start": 1.8,
+   "end": 5.33
+  },
+  {
+   "id": "as3_cue",
+   "cap": "One more time, to AdvantageScope.",
+   "start": 5.841,
+   "end": 8.851
+  }
+ ],
+ "end": 9.851
+}

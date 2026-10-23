@@ -1,0 +1,69 @@
+[
+ {
+  "id": "open_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 3.154,
+  "act_end": 3.488,
+  "cap_end": 4.06
+ },
+ {
+  "id": "openlog_cue",
+  "kind": "cue",
+  "audio": 5.288,
+  "act": 5.788,
+  "hit": 6.592,
+  "act_end": 7.557,
+  "cap_end": 7.908
+ },
+ {
+  "id": "sort_cue",
+  "kind": "cue",
+  "audio": 9.357,
+  "act": 9.857,
+  "hit": 10.341,
+  "act_end": 12.064,
+  "cap_end": 15.897
+ },
+ {
+  "id": "log_cue",
+  "kind": "cue",
+  "audio": 15.947,
+  "act": 16.447,
+  "hit": 17.767,
+  "act_end": 18.136,
+  "cap_end": 19.567
+ },
+ {
+  "id": "crossed_talk",
+  "kind": "talk",
+  "audio": 19.617,
+  "cap_end": 28.567
+ },
+ {
+  "id": "dragl2_cue",
+  "kind": "cue",
+  "waited": 0.981,
+  "audio": 29.067,
+  "act": 29.567,
+  "hit": 29.857,
+  "act_end": 32.646,
+  "cap_end": 33.297
+ },
+ {
+  "id": "dragr2_cue",
+  "kind": "cue",
+  "audio": 34.446,
+  "act": 34.946,
+  "hit": 35.308,
+  "act_end": 38.101,
+  "cap_end": 36.206
+ },
+ {
+  "id": "dragboth_res",
+  "kind": "result",
+  "audio": 38.401,
+  "cap_end": 43.972
+ }
+]

@@ -1,0 +1,23 @@
+{
+ "caps": [
+  {
+   "id": "again_cue",
+   "cap": "Left-click in the Terminal, press \u2191, then Enter.",
+   "start": 1.8,
+   "end": 6.46
+  },
+  {
+   "id": "again_res",
+   "cap": "Running.",
+   "start": 8.024,
+   "end": 9.084
+  },
+  {
+   "id": "as2_cue",
+   "cap": "Switch to AdvantageScope.",
+   "start": 9.584,
+   "end": 11.584
+  }
+ ],
+ "end": 12.584
+}

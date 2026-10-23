@@ -1,0 +1,11 @@
+  10.714	stop_sim	guard	studio in front
+   0.000	type_right	act	right_cue, planned at 2.300 s
+   0.342	type_right	guard	studio in front
+   1.763	type_right	before	passed in 0.31 s: 'do here'
+   2.765	type_right	press	760,411
+   3.009	type_right	key	key code 36
+   3.345	type_right	type	double rightStickY = gamepad1.right_stick_y;
+   7.686	type_right	key	key code 36
+   8.033	type_right	type	Tracker.publish("stick/rightY", rightStickY);
+  12.868	type_right	after	passed in 0.41 s: 'right_stick_y'
+  14.938	type_right	end	studio2 ends 14.868 s
