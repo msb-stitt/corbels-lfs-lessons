@@ -1,0 +1,293 @@
+[
+ {
+  "id": "intro_hi",
+  "kind": "talk",
+  "audio": 1.5,
+  "cap_end": 5.92
+ },
+ {
+  "id": "intro_plan",
+  "kind": "talk",
+  "audio": 5.97,
+  "cap_end": 11.113
+ },
+ {
+  "id": "lessons_cue",
+  "kind": "cue",
+  "audio": 11.163,
+  "act": 11.663,
+  "hit": 12.357,
+  "act_end": 12.747,
+  "cap_end": 14.763
+ },
+ {
+  "id": "lessons_res",
+  "kind": "result",
+  "audio": 14.813,
+  "cap_end": 18.393
+ },
+ {
+  "id": "pick_cue",
+  "kind": "cue",
+  "audio": 18.893,
+  "act": 19.393,
+  "hit": 20.087,
+  "act_end": 20.454,
+  "cap_end": 23.403
+ },
+ {
+  "id": "copy_cue",
+  "kind": "cue",
+  "audio": 23.453,
+  "act": 23.953,
+  "hit": 24.278,
+  "act_end": 24.278,
+  "cap_end": 28.596
+ },
+ {
+  "id": "fold_cue",
+  "kind": "cue",
+  "audio": 28.646,
+  "act": 29.146,
+  "hit": 29.85,
+  "act_end": 30.237,
+  "cap_end": 32.075
+ },
+ {
+  "id": "mytry_cue",
+  "kind": "cue",
+  "audio": 32.125,
+  "act": 32.625,
+  "hit": 33.294,
+  "act_end": 33.706,
+  "cap_end": 34.995
+ },
+ {
+  "id": "paste_cue",
+  "kind": "cue",
+  "audio": 35.506,
+  "act": 36.006,
+  "hit": 36.327,
+  "act_end": 36.742,
+  "cap_end": 40.22
+ },
+ {
+  "id": "paste_res",
+  "kind": "result",
+  "audio": 40.27,
+  "cap_end": 45.55
+ },
+ {
+  "id": "ok_cue",
+  "kind": "cue",
+  "audio": 45.6,
+  "act": 46.1,
+  "hit": 46.848,
+  "act_end": 47.519,
+  "cap_end": 47.53
+ },
+ {
+  "id": "git_res",
+  "kind": "result",
+  "audio": 47.819,
+  "cap_end": 52.105
+ },
+ {
+  "id": "add_cue",
+  "kind": "cue",
+  "audio": 52.155,
+  "act": 52.655,
+  "hit": 53.399,
+  "act_end": 53.739,
+  "cap_end": 54.085
+ },
+ {
+  "id": "top_cue",
+  "kind": "cue",
+  "audio": 55.539,
+  "act": 56.039,
+  "hit": 56.359,
+  "act_end": 57.697,
+  "cap_end": 62.396
+ },
+ {
+  "id": "ok_res",
+  "kind": "result",
+  "audio": 62.446,
+  "cap_end": 68.636
+ },
+ {
+  "id": "disabled_cue",
+  "kind": "cue",
+  "audio": 69.136,
+  "act": 69.636,
+  "hit": 70.309,
+  "act_end": 70.309,
+  "cap_end": 73.456
+ },
+ {
+  "id": "del_cue",
+  "kind": "cue",
+  "audio": 73.506,
+  "act": 74.006,
+  "hit": 74.328,
+  "act_end": 74.751,
+  "cap_end": 79.077
+ },
+ {
+  "id": "del_res",
+  "kind": "result",
+  "audio": 79.127,
+  "cap_end": 82.647
+ },
+ {
+  "id": "loop_cue",
+  "kind": "cue",
+  "audio": 83.147,
+  "act": 83.647,
+  "hit": 84.133,
+  "act_end": 84.133,
+  "cap_end": 88.817
+ },
+ {
+  "id": "type1_cue",
+  "kind": "cue",
+  "audio": 88.867,
+  "act": 89.367,
+  "hit": 89.679,
+  "act_end": 94.794,
+  "cap_end": 95.307
+ },
+ {
+  "id": "type1_res",
+  "kind": "result",
+  "audio": 95.357,
+  "cap_end": 99.097
+ },
+ {
+  "id": "narrow_cue",
+  "kind": "cue",
+  "audio": 99.147,
+  "act": 99.647,
+  "hit": 100.662,
+  "act_end": 101.06,
+  "cap_end": 102.277
+ },
+ {
+  "id": "narrow_res",
+  "kind": "result",
+  "audio": 102.327,
+  "cap_end": 105.756
+ },
+ {
+  "id": "tab_cue",
+  "kind": "cue",
+  "audio": 105.806,
+  "act": 106.306,
+  "hit": 106.649,
+  "act_end": 107.201,
+  "cap_end": 109.756
+ },
+ {
+  "id": "semi_cue",
+  "kind": "cue",
+  "audio": 109.806,
+  "act": 110.306,
+  "hit": 110.542,
+  "act_end": 111.306,
+  "cap_end": 112.826
+ },
+ {
+  "id": "semi_res",
+  "kind": "result",
+  "audio": 112.876,
+  "cap_end": 117.786
+ },
+ {
+  "id": "hover_cue",
+  "kind": "cue",
+  "audio": 118.286,
+  "act": 118.786,
+  "hit": 119.244,
+  "act_end": 119.655,
+  "cap_end": 121.806
+ },
+ {
+  "id": "hover_res",
+  "kind": "result",
+  "audio": 121.856,
+  "cap_end": 127.427
+ },
+ {
+  "id": "hover_off_cue",
+  "kind": "cue",
+  "audio": 127.477,
+  "act": 127.977,
+  "hit": 128.35,
+  "act_end": 129.738,
+  "cap_end": 131.763
+ },
+ {
+  "id": "track_cue",
+  "kind": "cue",
+  "audio": 132.237,
+  "act": 132.737,
+  "hit": 133.049,
+  "act_end": 135.201,
+  "cap_end": 136.267
+ },
+ {
+  "id": "track_res",
+  "kind": "result",
+  "audio": 136.317,
+  "cap_end": 141.888
+ },
+ {
+  "id": "tracktab_cue",
+  "kind": "cue",
+  "audio": 141.938,
+  "act": 142.438,
+  "hit": 142.799,
+  "act_end": 143.321,
+  "cap_end": 143.348
+ },
+ {
+  "id": "publish_cue",
+  "kind": "cue",
+  "audio": 145.121,
+  "act": 145.621,
+  "hit": 149.97,
+  "act_end": 150.394,
+  "cap_end": 152.721
+ },
+ {
+  "id": "publish_res",
+  "kind": "result",
+  "audio": 152.771,
+  "cap_end": 157.485
+ },
+ {
+  "id": "import_cue",
+  "kind": "cue",
+  "audio": 157.535,
+  "act": 158.035,
+  "hit": 159.538,
+  "act_end": 169.981,
+  "cap_end": 163.006
+ },
+ {
+  "id": "pad_plug",
+  "kind": "talk",
+  "audio": 170.981,
+  "cap_end": 175.267
+ },
+ {
+  "id": "term_cue",
+  "kind": "cue",
+  "audio": 175.317,
+  "act": 175.817,
+  "hit": 176.47,
+  "act_end": 176.832,
+  "cap_end": 177.607
+ }
+]

@@ -1,0 +1,33 @@
+[
+ {
+  "id": "cmd_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 2.922,
+  "act_end": 7.779,
+  "cap_end": 7.23
+ },
+ {
+  "id": "cmd_res",
+  "kind": "result",
+  "waited": 3.067,
+  "audio": 11.146,
+  "cap_end": 16.646
+ },
+ {
+  "id": "pad_claim",
+  "kind": "talk",
+  "audio": 17.146,
+  "cap_end": 24.432
+ },
+ {
+  "id": "as_cue",
+  "kind": "cue",
+  "audio": 24.482,
+  "act": 24.982,
+  "hit": 24.986,
+  "act_end": 24.986,
+  "cap_end": 32.625
+ }
+]

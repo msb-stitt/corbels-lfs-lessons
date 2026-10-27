@@ -1,10 +1,10 @@
 {
  "ftc-claude": {
-  "commit": "aca0a10dd1fb719c3d3afc6bac94eccf4b56054b",
+  "commit": "1fcc766b880759bca5607f0b198e927a2aae2959",
   "changed": []
  },
  "ftc31459-26-27-biobuzz": {
-  "commit": "644c7a9b17896024a23f3247f3fc203b9b03b10f",
+  "commit": "423ac420d4305250393f06a9eeba0fe8f50ed29d",
   "changed": [
    "AM TeamCode/src/main/java/org/firstinspires/ftc/teamcode/mytry/L020SticksOpMode.java"
   ]
@@ -21,63 +21,63 @@
  "shots": [
   {
    "name": "studio",
-   "hash": "bdc777068721",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/studio-bdc777068721-20261023-134239-shots/"
+   "hash": "e734c83c23ce",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/studio-e734c83c23ce-20261026-212002-shots/"
   },
   {
    "name": "launch1",
-   "hash": "6b5fa3721c50",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/launch1-6b5fa3721c50-20261023-134239-shots/"
+   "hash": "32566527ba3c",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/launch1-32566527ba3c-20261026-212002-shots/"
   },
   {
    "name": "scope1",
-   "hash": "6168f9481198",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/scope1-6168f9481198-20261023-134239-shots/"
+   "hash": "7f1a44c9190f",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/scope1-7f1a44c9190f-20261026-212002-shots/"
   },
   {
    "name": "stop1",
-   "hash": "127e9a5d2e8d",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/stop1-127e9a5d2e8d-20261023-134239-shots/"
+   "hash": "0b0e84100bc1",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/stop1-0b0e84100bc1-20261026-212002-shots/"
   },
   {
    "name": "studio2",
-   "hash": "03900064e07e",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/studio2-03900064e07e-20261023-134239-shots/"
+   "hash": "f9a1e05f2362",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/studio2-f9a1e05f2362-20261026-212002-shots/"
   },
   {
    "name": "launch2",
-   "hash": "3b80ff6fef7b",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/launch2-3b80ff6fef7b-20261023-134239-shots/"
+   "hash": "a74d6cf6e164",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/launch2-a74d6cf6e164-20261026-212002-shots/"
   },
   {
    "name": "scope2",
-   "hash": "6b338464a2d7",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/scope2-6b338464a2d7-20261023-134239-shots/"
+   "hash": "4128f9d5df9d",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/scope2-4128f9d5df9d-20261026-212002-shots/"
   },
   {
    "name": "stop2",
-   "hash": "8e2e02eceb67",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/stop2-8e2e02eceb67-20261023-134239-shots/"
+   "hash": "6a8211119833",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/stop2-6a8211119833-20261026-212002-shots/"
   },
   {
    "name": "log",
-   "hash": "256a74703a86",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/log-256a74703a86-20261023-134239-shots/"
+   "hash": "4ddcabe611b7",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/log-4ddcabe611b7-20261026-212002-shots/"
   },
   {
    "name": "summary",
-   "hash": "51e4c780eac4",
-   "take": "20261023-134239-shots",
-   "archive": "videos/l020-sources/shots/summary-51e4c780eac4-20261023-134239-shots/"
+   "hash": "6b260f25ee3e",
+   "take": "20261026-212002-shots",
+   "archive": "videos/l020-sources/shots/summary-6b260f25ee3e-20261026-212002-shots/"
   }
  ],
  "voices": [
@@ -243,8 +243,8 @@
   },
   {
    "id": "publish_cue",
-   "mp3": "publish_cue-1908faff5da5.mp3",
-   "archive": "videos/l020-sources/audio/publish_cue-1908faff5da5.mp3"
+   "mp3": "publish_cue-d578066b6af2.mp3",
+   "archive": "videos/l020-sources/audio/publish_cue-d578066b6af2.mp3"
   },
   {
    "id": "publish_res",
@@ -308,23 +308,23 @@
   },
   {
    "id": "search_cue",
-   "mp3": "search_cue-caee2030a9d8.mp3",
-   "archive": "videos/l020-sources/audio/search_cue-caee2030a9d8.mp3"
+   "mp3": "search_cue-e7b4ea2aeccd.mp3",
+   "archive": "videos/l020-sources/audio/search_cue-e7b4ea2aeccd.mp3"
   },
   {
    "id": "field_cue",
-   "mp3": "field_cue-33655e37100b.mp3",
-   "archive": "videos/l020-sources/audio/field_cue-33655e37100b.mp3"
+   "mp3": "field_cue-d4d8ee4ba358.mp3",
+   "archive": "videos/l020-sources/audio/field_cue-d4d8ee4ba358.mp3"
   },
   {
    "id": "dragl_cue",
-   "mp3": "dragl_cue-50e2a6987656.mp3",
-   "archive": "videos/l020-sources/audio/dragl_cue-50e2a6987656.mp3"
+   "mp3": "dragl_cue-72876fe89680.mp3",
+   "archive": "videos/l020-sources/audio/dragl_cue-72876fe89680.mp3"
   },
   {
    "id": "padl0",
-   "mp3": "padl0-8baf01c67514.mp3",
-   "archive": "videos/l020-sources/audio/padl0-8baf01c67514.mp3"
+   "mp3": "padl0-96c885efc2d5.mp3",
+   "archive": "videos/l020-sources/audio/padl0-96c885efc2d5.mp3"
   },
   {
    "id": "padl1",
@@ -333,8 +333,8 @@
   },
   {
    "id": "scale_talk",
-   "mp3": "scale_talk-a5675e9d0892.mp3",
-   "archive": "videos/l020-sources/audio/scale_talk-a5675e9d0892.mp3"
+   "mp3": "scale_talk-6866dca13e31.mp3",
+   "archive": "videos/l020-sources/audio/scale_talk-6866dca13e31.mp3"
   },
   {
    "id": "padl2",
@@ -403,8 +403,8 @@
   },
   {
    "id": "dragr_cue",
-   "mp3": "dragr_cue-75cc77fc8c65.mp3",
-   "archive": "videos/l020-sources/audio/dragr_cue-75cc77fc8c65.mp3"
+   "mp3": "dragr_cue-7a868fb2a0a4.mp3",
+   "archive": "videos/l020-sources/audio/dragr_cue-7a868fb2a0a4.mp3"
   },
   {
    "id": "padr1",
@@ -468,13 +468,13 @@
   },
   {
    "id": "dragl2_cue",
-   "mp3": "dragl2_cue-69e5b02e7083.mp3",
-   "archive": "videos/l020-sources/audio/dragl2_cue-69e5b02e7083.mp3"
+   "mp3": "dragl2_cue-ba022e0f65e2.mp3",
+   "archive": "videos/l020-sources/audio/dragl2_cue-ba022e0f65e2.mp3"
   },
   {
    "id": "dragr2_cue",
-   "mp3": "dragr2_cue-c9980b543443.mp3",
-   "archive": "videos/l020-sources/audio/dragr2_cue-c9980b543443.mp3"
+   "mp3": "dragr2_cue-5d4289014807.mp3",
+   "archive": "videos/l020-sources/audio/dragr2_cue-5d4289014807.mp3"
   },
   {
    "id": "dragboth_res",

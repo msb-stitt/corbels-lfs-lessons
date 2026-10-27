@@ -1,0 +1,11 @@
+[
+ {
+  "id": "right_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 2.939,
+  "act_end": 13.444,
+  "cap_end": 9.859
+ }
+]

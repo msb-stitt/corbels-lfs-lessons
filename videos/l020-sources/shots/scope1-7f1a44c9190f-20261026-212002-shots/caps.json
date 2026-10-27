@@ -1,0 +1,107 @@
+{
+ "caps": [
+  {
+   "id": "connect_cue",
+   "cap": "Left-click File...",
+   "start": 1.8,
+   "end": 3.63
+  },
+  {
+   "id": "connect2_cue",
+   "cap": "Connect to Simulator...",
+   "start": 5.195,
+   "end": 7.155
+  },
+  {
+   "id": "connect3_cue",
+   "cap": "...and left-click NetworkTables 4. The one marked Default is the same.",
+   "start": 9.199,
+   "end": 14.799
+  },
+  {
+   "id": "graph_cue",
+   "cap": "Left-click Line Graph.",
+   "start": 15.299,
+   "end": 17.309
+  },
+  {
+   "id": "search_cue",
+   "cap": "Left-click the search box, and type leftStickY.",
+   "start": 18.714,
+   "end": 23.114
+  },
+  {
+   "id": "field_cue",
+   "cap": "Left-click the first one, NT:/gamepad1/leftStickY.",
+   "start": 23.551,
+   "end": 28.591
+  },
+  {
+   "id": "dragl_cue",
+   "cap": "Left-click and drag leftStickY down into Left Axis.",
+   "start": 28.641,
+   "end": 33.651
+  },
+  {
+   "id": "padl0",
+   "cap": "Start with the gamepad joysticks at their resting positions. leftStickY is close to 0.",
+   "start": 34.151,
+   "end": 40.781
+  },
+  {
+   "id": "padl1",
+   "cap": "Push the left stick part way forward, and it goes negative.",
+   "start": 40.831,
+   "end": 45.545
+  },
+  {
+   "id": "scale_talk",
+   "cap": "The graph's scale changes as it zooms to fit. Read the number next to leftStickY, or compare the lines to the graph's scale.",
+   "start": 45.595,
+   "end": 55.452
+  },
+  {
+   "id": "padl2",
+   "cap": "All the way forward, and it's close to -1.",
+   "start": 55.502,
+   "end": 59.892
+  },
+  {
+   "id": "forward_talk",
+   "cap": "Forward is -1 on gamepads. That's how they're made, not a mistake in your code.",
+   "start": 59.942,
+   "end": 66.371
+  },
+  {
+   "id": "padl3",
+   "cap": "Take your thumb off the stick: it springs back to 0.",
+   "start": 66.421,
+   "end": 71.135
+  },
+  {
+   "id": "padl4",
+   "cap": "Pull it part way toward you: a little positive.",
+   "start": 71.185,
+   "end": 75.042
+  },
+  {
+   "id": "padl5",
+   "cap": "All the way toward you: close to +1.",
+   "start": 75.092,
+   "end": 78.982
+  },
+  {
+   "id": "padl6",
+   "cap": "Take your thumb off the stick.",
+   "start": 79.032,
+   "end": 81.603
+  },
+  {
+   "id": "back_cue",
+   "cap": "Switch back to Android Studio: \u2318Tab on a Mac, Alt+Tab on Windows and Ubuntu.",
+   "start": 81.653,
+   "end": 87.653
+  }
+ ],
+ "end": 88.653
+}

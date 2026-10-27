@@ -1,0 +1,11 @@
+  17.028	type_right	guard	studio in front
+   0.000	run_again	act	again_cue, planned at 2.300 s
+   0.338	run_again	guard	studio in front
+   1.663	run_again	before	passed in 0.31 s: 'Local'
+   2.663	run_again	press	756,850
+   2.895	run_again	key	key code 126
+   3.525	run_again	key	key code 36
+   4.691	run_again	after	passed in 0.83 s: '% ./gradlew'
+   7.613	run_again	wait	run started, L020SticksOpMode-20261026-212542.wpilog
+   7.622	switch	act	as2_cue, planned at 9.982 s
+  12.587	switch	end	launch2 ends 12.482 s

@@ -1,0 +1,30 @@
+  11.166	switch	guard	as in front
+   0.000	as_file	act	open_cue, planned at 2.300 s
+   0.122	as_file	guard	as in front
+   1.771	as_file	before	passed in 0.32 s: 'File'
+   2.773	as_file	press	194,16
+   3.359	as_file	after	passed in 0.35 s: 'Open Log'
+   3.359	as_openlog	act	openlog_cue, planned at 5.659 s
+   3.499	as_openlog	guard	as in front
+   5.150	as_openlog	before	passed in 0.32 s: 'Open Log'
+   6.151	as_openlog	press	228,51
+   7.725	as_openlog	after	passed in 1.34 s: 'multiple files'
+   7.725	as_sort	act	sort_cue, planned at 10.025 s
+  10.169	as_sort	press	830,357
+  12.013	as_pick_log	act	log_cue, planned at 16.615 s
+  14.491	as_pick_log	guard	as in front
+  16.110	as_pick_log	before	passed in 0.41 s: 'wpilog'
+  17.640	as_pick_log	double-click	655,387
+  18.285	as_pick_log	after	passed in 0.38 s: '!multiple files'
+  19.227	as_pick_log	wait	log open
+  19.227	as_drag_left2	act	dragl2_cue, planned at 29.735 s
+  27.617	as_drag_left2	guard	as in front
+  29.892	as_drag_left2	drag from	126,204
+  32.142	as_drag_left2	drag to	539,830
+  32.579	as_drag_left2	after	passed in 0.38 s: 'gamepad1/leftStickY'
+  32.579	as_drag_right2	act	dragr2_cue, planned at 34.879 s
+  33.180	as_drag_right2	guard	as in front
+  35.162	as_drag_right2	drag from	131,235
+  37.369	as_drag_right2	drag to	539,845
+  37.802	as_drag_right2	after	passed in 0.38 s: 'gamepad1/righ'
+  44.723	as_drag_right2	end	log ends 44.673 s

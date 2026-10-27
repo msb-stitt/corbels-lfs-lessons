@@ -1,0 +1,41 @@
+{
+ "caps": [
+  {
+   "id": "dragr_cue",
+   "cap": "Left-click and drag rightStickY in, under leftStickY.",
+   "start": 1.8,
+   "end": 6.65
+  },
+  {
+   "id": "padr1",
+   "cap": "Push the right stick all the way forward: close to -1.",
+   "start": 7.15,
+   "end": 11.87
+  },
+  {
+   "id": "padr2",
+   "cap": "Pull it all the way toward you: close to +1.",
+   "start": 11.92,
+   "end": 16.206
+  },
+  {
+   "id": "padr3",
+   "cap": "Now move both sticks: each line follows its own stick.",
+   "start": 16.256,
+   "end": 20.926
+  },
+  {
+   "id": "padr4",
+   "cap": "Take your thumbs off both sticks.",
+   "start": 20.976,
+   "end": 23.656
+  },
+  {
+   "id": "back2_cue",
+   "cap": "And back to Android Studio.",
+   "start": 23.706,
+   "end": 25.886
+  }
+ ],
+ "end": 26.886
+}

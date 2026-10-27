@@ -1,0 +1,56 @@
+[
+ {
+  "id": "dragr_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 2.627,
+  "act_end": 5.312,
+  "cap_end": 6.65
+ },
+ {
+  "id": "padr1",
+  "kind": "pad",
+  "audio": 7.15,
+  "act": 7.15,
+  "hit": 7.155,
+  "act_end": 7.556,
+  "cap_end": 11.87
+ },
+ {
+  "id": "padr2",
+  "kind": "pad",
+  "audio": 11.92,
+  "act": 11.92,
+  "hit": 11.92,
+  "act_end": 12.323,
+  "cap_end": 16.206
+ },
+ {
+  "id": "padr3",
+  "kind": "pad",
+  "audio": 16.256,
+  "act": 16.256,
+  "hit": 16.26,
+  "act_end": 16.26,
+  "cap_end": 20.926
+ },
+ {
+  "id": "padr4",
+  "kind": "pad",
+  "audio": 20.976,
+  "act": 20.976,
+  "hit": 20.978,
+  "act_end": 21.338,
+  "cap_end": 23.656
+ },
+ {
+  "id": "back2_cue",
+  "kind": "cue",
+  "audio": 23.706,
+  "act": 24.206,
+  "hit": 24.208,
+  "act_end": 24.208,
+  "cap_end": 25.886
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "id": "again_cue",
+  "kind": "cue",
+  "audio": 1.8,
+  "act": 2.3,
+  "hit": 2.895,
+  "act_end": 4.691,
+  "cap_end": 6.46
+ },
+ {
+  "id": "again_res",
+  "kind": "result",
+  "waited": 2.931,
+  "audio": 7.922,
+  "cap_end": 8.982
+ },
+ {
+  "id": "as2_cue",
+  "kind": "cue",
+  "audio": 9.482,
+  "act": 9.982,
+  "hit": 9.982,
+  "act_end": 9.982,
+  "cap_end": 11.482
+ }
+]

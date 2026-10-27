@@ -1,0 +1,96 @@
+   0.000	-	guard	studio in front
+   0.000	lessons	act	lessons_cue, planned at 11.663 s
+   9.748	lessons	guard	studio in front
+  11.118	lessons	before	passed in 0.40 s: 'lessons'
+  12.123	lessons	press	174,321
+  12.747	lessons	after	passed in 0.39 s: 'SticksOpMode'
+  12.748	pick_starter	act	pick_cue, planned at 19.393 s
+  17.477	pick_starter	guard	studio in front
+  18.845	pick_starter	before	passed in 0.41 s: 'SticksOpMode'
+  19.847	pick_starter	press	285,345
+  20.454	pick_starter	after	passed in 0.37 s: 'lessons'
+  20.454	copy	act	copy_cue, planned at 23.953 s
+  23.939	copy	guard	studio in front
+  23.957	copy	key	keystroke "c" using command down
+  24.278	fold	act	fold_cue, planned at 29.146 s
+  27.222	fold	guard	studio in front
+  28.614	fold	before	passed in 0.41 s: 'lessons'
+  29.616	fold	press	174,321
+  30.237	fold	after	passed in 0.39 s: 'mytry'
+  30.237	mytry	act	mytry_cue, planned at 32.625 s
+  30.701	mytry	guard	studio in front
+  32.072	mytry	before	passed in 0.40 s: 'mytry'
+  33.074	mytry	press	223,369
+  33.706	mytry	after	passed in 0.41 s: 'mytry'
+  33.706	paste	act	paste_cue, planned at 36.006 s
+  35.991	paste	guard	studio in front
+  36.010	paste	key	keystroke "v" using command down
+  36.742	paste	after	passed in 0.41 s: 'Copy Class'
+  36.742	ok	act	ok_cue, planned at 46.100 s
+  45.607	ok	before	passed in 0.40 s: 'OK'
+  46.607	ok	press	1436,566
+  47.519	ok	after	passed in 0.67 s: 'Add File to Git'
+  47.519	add	act	add_cue, planned at 52.655 s
+  52.164	add	before	passed in 0.39 s: 'Add'
+  53.166	add	press	1154,530
+  53.739	add	after	passed in 0.34 s: '!Add File to Git'
+  53.739	top	act	top_cue, planned at 56.039 s
+  56.024	top	guard	studio in front
+  56.043	top	key	key code 115 using command down
+  57.697	top	after	passed in 0.38 s: 'four methods'
+  57.697	disabled	act	disabled_cue, planned at 69.636 s
+  67.717	disabled	guard	studio in front
+  69.064	disabled	before	passed in 0.38 s: '@Disabled'
+  70.068	disabled	press	560,632
+  70.309	delline	act	del_cue, planned at 74.006 s
+  73.995	delline	guard	studio in front
+  74.009	delline	key	key code 51 using command down
+  74.751	delline	after	passed in 0.42 s: '!@Disabled'
+  74.751	loop	act	loop_cue, planned at 83.647 s
+  80.537	loop	guard	studio in front
+  83.950	loop	press	760,616
+  84.133	type_left	act	type1_cue, planned at 89.367 s
+  89.357	type_left	guard	studio in front
+  89.370	type_left	key	key code 36
+  89.679	type_left	type	double leftStickY = gamepad1.
+  94.796	left_st	act	narrow_cue, planned at 99.647 s
+  99.649	left_st	type	left_st
+ 101.060	left_st	after	passed in 0.40 s: 'gamepad1.left_st'
+ 101.060	tab	act	tab_cue, planned at 106.306 s
+ 106.311	tab	key	key code 48
+ 107.201	tab	after	passed in 0.55 s: '!Next Tip'
+ 107.201	semi	act	semi_cue, planned at 110.306 s
+ 110.311	semi	type	;
+ 111.305	semi	after	passed in 0.76 s: 'left_stick_y;'
+ 111.306	hover	act	hover_cue, planned at 118.786 s
+ 116.869	hover	guard	studio in front
+ 118.241	hover	before	passed in 0.41 s: 'left_stick_y'
+ 119.655	hover	after	passed in 0.41 s: 'analog stick'
+ 119.655	hover_off	act	hover_off_cue, planned at 127.977 s
+ 126.569	hover_off	before	passed in 0.42 s: 'every loop'
+ 128.157	hover_off	press	760,726
+ 128.350	hover_off	key	key code 53
+ 129.345	hover_off	guard	studio in front
+ 129.738	hover_off	after	passed in 0.39 s: '!analog stick'
+ 129.738	track	act	track_cue, planned at 132.737 s
+ 132.714	track	guard	studio in front
+ 132.740	track	key	key code 36
+ 133.049	track	type	Track
+ 135.201	tab	act	tracktab_cue, planned at 142.438 s
+ 142.443	tab	key	key code 48
+ 143.321	tab	after	passed in 0.52 s: '!Next Tip'
+ 143.321	type_publish	act	publish_cue, planned at 145.621 s
+ 145.623	type_publish	type	.publish("gamepad1/leftStickY", leftStickY);
+ 150.394	type_publish	after	passed in 0.42 s: 'gamepad1/leftStickY'
+ 150.394	peek_import	act	import_cue, planned at 158.035 s
+ 156.109	peek_import	guard	studio in front
+ 160.627	peek_import	press	555,192
+ 162.016	peek_import	after	import line shown
+ 165.496	peek_import	press	473,192
+ 167.236	peek_import	key	key code 33 using command down
+ 169.982	terminal	act	term_cue, planned at 175.817 s
+ 173.893	terminal	guard	studio in front
+ 175.231	terminal	before	passed in 0.37 s: 'Terminal'
+ 176.235	terminal	press	76,813
+ 176.831	terminal	after	passed in 0.36 s: 'Local'
+ 178.683	terminal	end	studio ends 178.607 s

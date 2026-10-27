@@ -1,0 +1,11 @@
+ 180.164	terminal	guard	studio in front
+   0.000	type_cmd	act	cmd_cue, planned at 2.300 s
+   0.329	type_cmd	guard	studio in front
+   1.687	type_cmd	before	passed in 0.33 s: 'Local'
+   2.691	type_cmd	press	756,850
+   2.922	type_cmd	type	./gradlew :TeamCode:simRun --args="mytry.L020SticksOpMode --pad"
+   6.621	type_cmd	key	key code 36
+   7.779	type_cmd	after	passed in 0.82 s: 'EXECUTING'
+  10.834	type_cmd	wait	run started, L020SticksOpMode-20261026-212312.wpilog
+  10.846	switch	act	as_cue, planned at 24.982 s
+  33.695	switch	end	launch1 ends 33.625 s
